@@ -12,7 +12,7 @@ This platform is designed to facilitate seamless interactions between influencer
 Installation
 1️⃣ Clone the repository:
 ```bash
-git clone "https://github.com/LovishTayal2/connexus.git"
+git clone https://github.com/LovishTayal2/connexus.git
 ```
 2️⃣ Install dependencies:
 ```bash

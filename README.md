@@ -1,4 +1,4 @@
-🌟 CONNEXUS - Influencer-Collaborator Interaction Platform 🎭  
+# 🌟 **CONNEXUS - Influencer-Collaborator Interaction Platform** 🎭  
 This platform is designed to facilitate seamless interactions between influencers and collaborators. It provides a user-friendly interface where users can connect, collaborate on projects, and manage their data efficiently.
 
 🚀 Features  
@@ -12,7 +12,7 @@ This platform is designed to facilitate seamless interactions between influencer
 Installation
 1️⃣ Clone the repository:
 ```bash
-git clone 
+git clone "https://github.com/LovishTayal2/connexus.git"
 ```
 2️⃣ Install dependencies:
 ```bash
